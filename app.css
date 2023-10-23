@@ -1,8 +1,12 @@
 body{
-    background-color: rgb(255, 253, 247);
+    background-color: rgb(226, 203, 245);
 }
 
 h1{
     font-size: 12rem;
-    color: aqua;
+    color:aqua;
+}
+
+label{
+    color:lime;
 }
